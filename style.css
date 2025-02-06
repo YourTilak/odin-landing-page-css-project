@@ -23,7 +23,7 @@ body {
 
 .navbar ul{
     display: flex;
-    gap: 10px;
+    gap: 25px;
     list-style: none;
 }
 
@@ -40,7 +40,6 @@ body {
     justify-content: space-around;
     background-color: #1F2937;
     padding: 100px;
-    /* gap: 150px; */
 }
 
 .header h1{
@@ -95,7 +94,6 @@ button {
 
 .info-content {
     display: flex;
-    /* width: 500px; */
     padding-top: 20px;
     gap: 40px;
     justify-content: center;
